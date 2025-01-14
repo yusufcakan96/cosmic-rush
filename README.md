@@ -2,11 +2,6 @@
 ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/4cc47db9-c141-4031-b6dd-1885263c2ce9)
 --->
 
-
- **Takım İsmi**
-
-Time Guards
-
 # Ürün İle İlgili Bilgiler
 
 Speedrun, Pixel, Platformer, [(WebGL) üzerinden oynayabilirsiniz](https://play.unity.com/en/games/192fbe56-6826-4dff-ada9-d010c83667a0/cosmic-rush)
