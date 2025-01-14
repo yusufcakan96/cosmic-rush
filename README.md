@@ -1,7 +1,7 @@
 <!---
 ![image](https://github.com/hhhhh-ckr/OUA-Bootcamp-Grup87/assets/163685679/4cc47db9-c141-4031-b6dd-1885263c2ce9)
 --->
-![logo](readme/Cosmic%20Rush%20Logo.png)
+
 
  **Takım İsmi**
 
